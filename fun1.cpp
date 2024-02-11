@@ -1,4 +1,4 @@
-# include fun1.edge;
+# include fun1.h;
 
 
 
